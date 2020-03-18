@@ -1,7 +1,9 @@
 package saveourplanet;
 
 import java.util.Random;
-
+/* Square to generate facts
+* @author rwhite, nsweeney, jpatterson and dgillespie
+*/
 public class ClimateFacts extends Square {
 
 	public ClimateFacts() {
