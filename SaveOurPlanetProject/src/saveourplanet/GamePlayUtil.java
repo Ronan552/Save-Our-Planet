@@ -7,7 +7,7 @@ import java.util.Random;
 /**
  * Methods involving actions relating to FieldSquares
  * 
- * @author user
+ *  @author rwhite, nsweeney, jpatterson and dgillespie
  *
  */
 public class GamePlayUtil {
