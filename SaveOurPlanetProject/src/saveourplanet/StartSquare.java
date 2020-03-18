@@ -6,9 +6,11 @@ package saveourplanet;
 import java.util.Random;
 
 /**
- * @author User
+ * 
+ * @author rwhite, nsweeney, jpatterson and dgillespie
  *
  */
+
 public class StartSquare extends Square {
 
 	/**
@@ -36,7 +38,7 @@ public class StartSquare extends Square {
 			System.out.println("Did you know, UN Peacekeeping forces comprise 116,919 field forces from 123 countries.\n");
 			break;
 		case 3:
-			System.out.println("Did you know, The UN provides food to 90 million people…\n");
+			System.out.println("Did you know, The UN provides food to 90 million peopleâ€¦\n");
 			break;
 	}
 	}	
