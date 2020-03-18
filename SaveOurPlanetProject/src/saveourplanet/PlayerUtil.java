@@ -5,9 +5,10 @@ import java.util.ArrayList;
 /**
  * Methods containing actions relating to the player
  * 
- * @author nsweeney88
+ * @author rwhite, nsweeney, jpatterson and dgillespie
  *
  */
+
 public class PlayerUtil {
 
 	/**
