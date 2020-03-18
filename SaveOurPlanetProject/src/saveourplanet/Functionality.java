@@ -9,7 +9,8 @@ import java.util.Scanner;
 
 /**
  * methods relating to functionality of the game
- * @author nsweeney
+ * 
+ * @author rwhite, nsweeney, jpatterson and dgillespie
  *
  */
 public class Functionality {
