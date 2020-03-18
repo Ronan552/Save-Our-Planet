@@ -2,7 +2,7 @@ package saveourplanet;
 
 /**
  * Player class - all relevant info needed for players playing save our planet.
- * @author nsweeney
+ * @author rwhite, nsweeney, jpatterson and dgillespie
  *
  */
 public class Player {
