@@ -5,8 +5,7 @@ import java.util.ArrayList;
 
 /**
  * Class containing the main method and playerTurn method from which the game runs.
- * @author nsweeney
- *
+ * @author rwhite, nsweeney, jpatterson and dgillespie
  */
 public class PlaySaveOurPlanet {
 		
