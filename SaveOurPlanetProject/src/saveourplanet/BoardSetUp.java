@@ -5,7 +5,7 @@ import java.util.Collections;
 
 /**
  * Methods relating to activities of the boardGame
- * @author nsweeney
+ * @author rwhite, nsweeney, jpatterson and dgillespie
  */
 public class BoardSetUp {
 	
