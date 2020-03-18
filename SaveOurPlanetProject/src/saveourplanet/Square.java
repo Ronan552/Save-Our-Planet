@@ -3,7 +3,7 @@ package saveourplanet;
 
 /**
  * Superclass containing name and sqaureId
- * @author nsweeney
+ * @author rwhite, nsweeney, jpatterson and dgillespie
  *
  */
 public abstract class Square implements Comparable<Square> {
