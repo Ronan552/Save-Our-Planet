@@ -1,0 +1,11 @@
+﻿name,squareId,field,buyPrice,minorDevCost,majorDevCost,baseRent,minorDevName,majorDevName,,,,,
+Rosslare,2,RENEWABLES,120,100,100,8,Solar panel,Solar farm,,,,,
+Sperrins,3,RENEWABLES,180,100,100,14,Wind turbine,Wind farm,,,,,
+Silent Valley,4,RENEWABLES,200,100,100,16,Hydroelectric turbine,Hydroelectric dam,,1,2,3,major
+Castlewellan Maze,5,REDUCE,60,50,50,4,Plant tree,Plant forest,,5,15,45,80
+Boucher Road,6,REDUCE,100,50,50,6,Hybrid car,Electric car,,,,,
+Derry,8,RECYCLE,280,150,150,22,Bottle bin,Bottle recycling facility,,,,,
+Galway,9,RECYCLE,300,150,150,26,Hybrid,Electric car,,,,,
+Moy Park,10,RECYCLE,320,150,150,28,Compost heap,Digester,,,,,
+Wild Atlantic Way,11,LIFESTYLE,350,200,200,35,Bike shop,Cycle scheme,,,,,
+Belfast,12,LIFESTYLE,400,200,200,50,Vegan stall,Vegan restaurant,,,,,

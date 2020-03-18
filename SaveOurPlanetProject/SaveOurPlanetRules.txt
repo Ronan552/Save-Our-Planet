@@ -1,0 +1,17 @@
+-Due to a climate emergency, the UN has issued a strict individual Eco-Points allowance.
+-A points based system has been developed which allocates 1500 Eco-Points per person.
+-The points represent carbon emissions.
+-Players must expend Eco-Points to buy and develop areas. 
+-The development upgrades will help to reduce the overall carbon footprint of the population. 
+-If a player lands on an area which is already owned, they will contribute Eco-Points to the owner of that given area.
+-An area can be developed once all of the areas within one of the four fields are owned by the same player.
+-The four fields are: Reduce, Renewables, Recycle and Lifestyle.
+-Three minor developments must exist before a major development can be established.
+ 
+-The game allows from 2 up to 4 players.
+-The players will take turns and two virtual dice are thrown to move around the board.
+-Players will make an action based on the opportunities for the area that they land on.
+-When the start square is passed the player will receive 20 Eco-Points.
+-All players start with the same Eco-Points balance.
+-If a player runs out of Eco-Points, the game is over. 
+-The person with the greatest number of Eco-Points remaining will be declared the winner.
