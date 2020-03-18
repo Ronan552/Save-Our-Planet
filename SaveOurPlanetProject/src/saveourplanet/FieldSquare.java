@@ -1,5 +1,8 @@
 package saveourplanet;
 
+/* 
+* @author rwhite, nsweeney, jpatterson and dgillespie
+*/
 public class FieldSquare extends Square implements IFieldSquares {
 
 	private Fields field;
